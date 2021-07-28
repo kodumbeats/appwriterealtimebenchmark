@@ -1,0 +1,8 @@
+[manager]
+203.0.113.0
+
+[workers]
+203.0.113.1
+
+[all:vars]
+ansible_user = root
